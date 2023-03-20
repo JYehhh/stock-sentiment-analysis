@@ -1,0 +1,8 @@
+New York Times: "Yes, there are two rate limits per API: 4,000 requests per day and 10 requests per minute. You should sleep 6 seconds between calls to avoid hitting the per minute rate limit. "
+
+Forbes: Not Found
+
+Bloomberg: The Daily API limit is 500,000 hits/per day. A “hit” is defined as one request for a single security/field pairing. 
+Therefore, if you request static data for 5 fields and 10 securities, that will translate into a total of 50 hits.
+
+SMH: Not Found

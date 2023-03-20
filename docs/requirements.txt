@@ -1,0 +1,6 @@
+transformers
+tk
+newspaper3k
+fake_useragent
+nltk
+bs4
