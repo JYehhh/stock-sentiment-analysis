@@ -1,5 +1,5 @@
 # Sentiment Analysis for Stock Picks
-A Python application that performs sentiment analysis on news articles containing specific company names to assist in stock selection.
+A Python application that performs sentiment analysis on news articles containing specific company names to assist in stock selection and observe Efficient Market Hypothesis.
 
 ## Introduction
 This project aims to help users make better stock picks by performing sentiment analysis on news articles related to specific companies. The application scrapes live news articles, searches for mentions of a given company name, and calculates the average sentiment score based on the article content. A user-friendly GUI allows users to input the desired stock and select news sources for analysis, presenting the sentiment score and distribution per news article visually.
