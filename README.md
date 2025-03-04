@@ -1,4 +1,4 @@
-# Sentiment Analysis for Stock Picks
+# 🙂 Sentiment Analysis for Stock Picks
 A Python application that performs sentiment analysis on news articles containing specific company names to assist in stock selection and observe Efficient Market Hypothesis.
 
 ## Introduction
